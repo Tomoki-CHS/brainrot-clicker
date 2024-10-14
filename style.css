@@ -1,0 +1,158 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    /*font-family: 'Courier New', Courier, monospace;*/
+    text-align: center;
+    font-size: 5vw
+}
+
+.container {
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: -2em;
+    height: 5vw;
+    width: 80vw;
+    text-align: center;
+}
+
+h2 {
+    text-wrap: pretty;
+    font-size: 1.5vw;
+}
+
+.skibby {
+    display:block;
+    margin:auto;
+    width: 20vw;
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.upgrade {
+    display:flex;
+    float: left;
+    margin:auto;
+    width: 10vw;
+    padding: 0;
+    border: none;
+    background: none;
+    margin-top: -10vw;
+    margin-left: 1vw;
+}
+
+.upgrade2 {
+    display:flex;
+    float: left;
+    margin:auto;
+    width: 10vw;
+    padding: 0;
+    border: none;
+    background: none;
+    margin-top: -10vw;
+    margin-left: 7vw;
+}
+
+.upgrade3 {
+    display:flex;
+    float: left;
+    margin:auto;
+    width: 10vw;
+    padding: 0;
+    border: none;
+    background: none;
+    margin-top: -10vw;
+    margin-left: 35vw;
+}
+
+.upgrade4 {
+    display:flex;
+    float: left;
+    margin:auto;
+    width: 10vw;
+    padding: 0;
+    border: none;
+    background: none;
+    margin-top: -10vw;
+    margin-left: 43vw;
+}
+
+.toilettrophy {
+    display:flex;
+    margin:auto;
+    width: 10vw;
+    padding: 0;
+    border: none;
+    background: none;
+    margin-top: 5vw;
+    margin-left: 35vw;
+}
+
+
+#baby {
+    width: 10vw;
+    padding: 0;
+    margin-top: -10vw;
+    font-size: 1vw;
+    margin-left: 2vw;
+}
+
+#chad {
+    width: 10vw;
+    padding: 0;
+    margin-top: -3vw;
+    font-size: 1vw;
+    margin-left: 14vw;
+}
+
+#ohiostate {
+    width: 10vw;
+    padding: 0;
+    margin-top: -8vw;
+    font-size: 1vw;
+    margin-left: 70vw;
+}
+
+#lunchly {
+    width: 10vw;
+    padding: 0;
+    margin-top: -8vw;
+    font-size: 1vw;
+    margin-left: 86vw;
+}
+
+#purchasetoilet {
+    width: 10vw;
+    padding: 0;
+    margin-top: -6vw;
+    font-size: 1vw;
+    margin-left: 77.5vw;
+}
+
+h3 {
+    text-align: center;
+    font-size:1.5vw;
+}
+
+#auratext {
+    margin-top: -4vw;
+}
+
+h5 {
+    font-size: 1.5vw;
+}
+
+#timetext {
+    margin-top: -10vw;
+}
+
+#aurapersectext {
+    margin-top: -8.5vw;
+    margin-left: 15vw;
+}
+
+#aurapersec {
+    margin-left: 15vw
+}
